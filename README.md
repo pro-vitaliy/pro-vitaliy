@@ -7,6 +7,7 @@ Beginner Java developer
 * 🌍  I'm based in Qazaqstan
 * ✉️  You can contact me at [pro.vitaliy@icloud.com](mailto:pro.vitaliy@icloud.com)
 * 🧠  I'm currently learning Spring framework
+
 My tech stack
 -----------------------
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
